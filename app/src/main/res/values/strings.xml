@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EntertainmentApp</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="pincode">Pincode</string>
+    <string name="vehicle_number">Vehicle Number</string>
+    <string name="please_enter_pincode">Enter Pincode</string>
+    <string name="first_name_error">Enter First Name</string>
+    <string name="last_name_error">Enter Last Name</string>
+    <string name="invalid_mobilenumber">Invalid MobileNumber</string>
+    <string name="please_enter_vehiclenumber">Enter Vehicle Number</string>
+    <string name="err">Error</string>
+    <string name="dashboard_permission_denied">Permission Denied</string>
+</resources>
